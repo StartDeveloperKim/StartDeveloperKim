@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+# 안녕하세요!!!
+꾸준함을 목표로 나아가고 있는 백엔드 개발자 지망생 김태우입니다.
+
+## My profile
+🌱 영남대학교(2017.3 ~ 2022.6)
+🌱 개발공부(2022.7 ~ ing)
