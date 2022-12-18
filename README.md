@@ -25,6 +25,10 @@ Here are some ideas to get you started:
 
 🌱 개발공부(2022.7 ~ ing)
 
+## 📄Books
+- [이펙티브 자바](https://github.com/StartDeveloperKim/Effective-Java-Study)
+- [React.js, 스프링 부트, AWS로 배우는 웹 개발 101 2/e](https://github.com/StartDeveloperKim/To-do-list.git)
+
 ## 💻Learning
 #### Backend
   <img alt="Java" src ="https://img.shields.io/badge/Java-blue.svg?&style=for-the-badge" /> <img alt="Spring" src ="https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white" /> <img alt="SpringBoot" src ="https://img.shields.io/badge/SpringBoot-6DB33F.svg?&style=for-the-badge&logo=SpringBoot&logoColor=white" /> <img alt="JPA" src ="https://img.shields.io/badge/JPA-20336B.svg?&style=for-the-badge" />
