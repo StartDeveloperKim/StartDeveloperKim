@@ -1,8 +1,4 @@
-## 안녕하세요!!😄
-
-꾸준함을 목표로 나아가고 있는 자바 백엔드 개발자 지망생 김태우입니다.
- 
-하루하루 꾸준하게 살아가자를 인생의 방향으로 설정하고 배움을 멈추지 않으려 합니다.
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=210&section=header&text=KimsBackend!!&fontSize=70)
 
 <!--
 **StartDeveloperKim/StartDeveloperKim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -24,10 +20,6 @@ Here are some ideas to get you started:
 🌱 영남대학교 정보통신공학과 전공(2017.3 ~ 2022.6(휴학중))
 
 🌱 개발공부(2022.7 ~ ing)
-
-## 📄Books
-- [이펙티브 자바](https://github.com/StartDeveloperKim/Effective-Java-Study)
-- [React.js, 스프링 부트, AWS로 배우는 웹 개발 101 2/e](https://github.com/StartDeveloperKim/To-do-list.git)
 
 ## 💻Learning
 #### Backend
